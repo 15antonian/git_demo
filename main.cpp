@@ -3,5 +3,5 @@
 
 int main(){
 
-  std::cout << "hello world!!!!" << std::endl;
+  std::cout << 42 << std::endl;
 }
